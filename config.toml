@@ -1,6 +1,6 @@
 baseURL = "http://hugo-local.s3-website-us-east-1.amazonaws.com"
 languageCode = 'en-us'
-title = 'My New Hugo Web Site'
+title = 'Ahmed Gharib Hugo Website'
 theme = "ananke"
 
 [[deployment.targets]]
