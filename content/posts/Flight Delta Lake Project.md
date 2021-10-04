@@ -3,6 +3,29 @@ title: "Flight Delta Lake Project"
 date: 2021-09-16T00:34:29+02:00
 draft: false
 ---
+
+Table of Conrents:
+- [Building Delta Lake-house for flights in United states](#building-delta-lake-house-for-flights-in-united-states)
+  - [Data Engineering Capstone Project](#data-engineering-capstone-project)
+    - [Project Summary](#project-summary)
+    - [Step 1: Scope the Project and Gather Data](#step-1-scope-the-project-and-gather-data)
+      - [Scope](#scope)
+      - [Technology used and reasons](#technology-used-and-reasons)
+      - [Delta lake archticture](#delta-lake-archticture)
+      - [Approach](#approach)
+      - [Describe and Gather Data](#describe-and-gather-data)
+    - [Step 2: Explore and Assess the Data](#step-2-explore-and-assess-the-data)
+      - [Explore the Data](#explore-the-data)
+      - [Cleaning Steps](#cleaning-steps)
+    - [Step 3: Define the Data Model](#step-3-define-the-data-model)
+      - [3.1 Conceptual Data Model](#31-conceptual-data-model)
+      - [Connect to BI tools](#connect-to-bi-tools)
+      - [3.2 Mapping Out Data Pipelines](#32-mapping-out-data-pipelines)
+    - [Step 4: Run Pipelines to Model the Data](#step-4-run-pipelines-to-model-the-data)
+      - [4.1 Create the data model](#41-create-the-data-model)
+      - [4.2 Data Quality Checks](#42-data-quality-checks)
+    - [Step 5: Complete Project Write Up](#step-5-complete-project-write-up)
+      - [Find me in social media](#find-me-in-social-media)
 # Building Delta Lake-house for flights in United states
 
 ## Data Engineering Capstone Project
@@ -215,7 +238,7 @@ let's retrive the rest of the data
 * Compare null values for lookup tables before and after transformations
 * Compare null values for daily summary gold table
 
-#### Step 5: Complete Project Write Up
+### Step 5: Complete Project Write Up
 
 * Clearly state the rationale for the choice of tools and technologies for the project.</br>
     As mentioned in the project scop delta lake is new technology brings the best of Data lake and Data warehouses
